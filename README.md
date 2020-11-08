@@ -2,7 +2,7 @@
 
 ### - 🌱 I’m always learning about AI and 👯 I’m looking to collaborate on any AI project, because it will improve my skills
 
-### - 📫 How to reach me you can write at jeromolinam at gmail doc com or ir 	https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+### - 📫 How to reach me you can write at jeromolinam at gmail doc com 
 
 
 <!--
