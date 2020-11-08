@@ -1,10 +1,10 @@
-### Hi there 👋 my name's Jerónimo and I'm an AI passionate, I love creating ML/DL models, conversational agents and working with NLP.
+### - Hi there 👋 my name's Jerónimo and I'm an AI passionate, I love creating ML/DL models, conversational agents and working with NLP.
 
 ### - 🌱 I’m always learning about AI and 👯 I’m looking to collaborate on any AI project, because it will improve my skills
 
 ### - 📫 How to reach me you can write at jeromolinam at gmail doc com 
 
-### Here my stats on gitHub
+### - Here my stats on gitHub
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jmolina010)
 
